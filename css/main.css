@@ -27,7 +27,6 @@
 }
 .form__checkbox {}
 .form__checkbox--replaced {
-  display: none;
   position: absolute;
   left: 0;
   top: -30px;
